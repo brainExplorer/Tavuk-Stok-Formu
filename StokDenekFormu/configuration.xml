@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<email>
+  <person>
+    <fullname>ümit yavuz</fullname>
+    <address>megafalkon63@gmail.com</address>
+    <konu>rapor</konu>
+  </person>
+  <person>
+    <fullname>ümit yavuz</fullname>
+    <address>megafalkon@hotmail.com</address>
+    <konu>rapor</konu>
+  </person>
+  <person>
+    <fullname>example</fullname>
+    <address>example@mail.com</address>
+    <konu>rapor</konu>
+  </person>
+</email>
